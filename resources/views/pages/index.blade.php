@@ -14,6 +14,6 @@
 	    @endif
 	    <hr>
 	    <h1>Welcome To my First Laravel Project</h1>
-	</div>
+    </div>
 
 @endsection
